@@ -1,0 +1,25 @@
+Flight #19: Free seats = 151
+Flight #18: Free seats = 87
+Flight #17: Free seats = 87
+Flight #16: Free seats = 95
+Flight #15: Free seats = 141
+Flight #14: Free seats = 118
+Flight #13: Free seats = 128
+Flight #12: Free seats = 101
+Flight #11: Free seats = 125
+Flight #10: Free seats = 80
+Flight #9: Free seats = 169
+Flight #8: Free seats = 106
+Flight #7: Free seats = 149
+Flight #6: Free seats = 159
+Flight #5: Free seats = 128
+Flight #4: Free seats = 126
+Flight #3: Free seats = 152
+Flight #2: Free seats = 81
+Flight #1: Free seats = 103
+Flight #0: Free seats = 91
+Allocated but free seats: 0
+Allocated for more than one person: 0
+1600 clients were satisfied
+0 clients were unsatisfied
+All the program took 0.580000 seconds to execute.
